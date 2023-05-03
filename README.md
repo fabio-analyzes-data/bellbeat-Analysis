@@ -5,6 +5,14 @@
 ---
 Gain insight into possible marketing strategies and growth opportunities by analyzing and identifying usage trends of consumers of non-bellbeat smart devices.
 
+## View Analysis
+---
+<div align="center">
+
+https://fabio-analyzes-data.github.io/bellbeat-analysis/
+</div>
+
+---
 ## Languages and Tools
 
 <div align="center">
